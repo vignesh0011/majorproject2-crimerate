@@ -6,7 +6,7 @@ This project employs Google Maps data and K-Means clustering to predict crime ra
 ## Features
 1. Crime Hotspot Detection: Identifies high-crime areas for effective resource allocation and patrol prioritization.
 2. Predictive Crime Forecasting: Uses machine learning to predict future crime rates, aiding proactive measures and resource allocation.
-3. Customizable Alerts: Enables users to set personalized alerts for specific crime types or areas, facilitating timely responses from law enforcement.
+3. Customizable Alerts: This enables users to set personalized alerts for specific crime types or areas, facilitating timely responses from law enforcement.
 4. Interactive Data Visualization: Provides intuitive visualizations of crime data trends, aiding decision-making and strategic planning.
 5. Geographic Risk Assessment: Generates risk reports based on crime data analysis, assisting in targeted interventions and prevention strategies.
 
@@ -16,8 +16,7 @@ This project employs Google Maps data and K-Means clustering to predict crime ra
 * Express js: Express.js is a minimalist web application framework for Node.js
 * Node js: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * Stable Internet Connection: Reliable internet access is necessary to use Google Colab effectively.
-* Google Maps API Key: Sign in with your Google Cloud Console account to access Google Maps API key and use that api key in the Maps with the crime dataset
-* Medical Imaging: UNET architecture for the tumor segmentation in CT images of lungs.
+* Google Maps API Key: Sign in with your Google Cloud Console account to access the Google Maps API key and use that API key in the Maps with the crime dataset
 ## System Architecture
 ![image](https://github.com/vignesh0011/majorproject2-crimerate/assets/53014593/aafc7a50-dca4-48ca-acfa-08931e808753)
 
